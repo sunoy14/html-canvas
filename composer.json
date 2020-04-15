@@ -1,0 +1,11 @@
+{
+    "name": "sunoy14/html-canvas",
+    "description": "html canvas learning",
+    "authors": [
+        {
+            "name": "Millo Lailang",
+            "email": "sunoy14socmed@gmail.com"
+        }
+    ],
+    "require": {}
+}
